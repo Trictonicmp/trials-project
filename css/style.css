@@ -1,0 +1,76 @@
+body{
+    background: lightgray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav{
+    margin: 3em auto 0 auto;
+}
+
+#title
+{
+    text-align: center;
+    font-size: 3em;
+}
+nav div h3{
+    font-weight: 100;
+    font-size: 1rem;
+    text-align: center;
+}
+
+
+.images-section{
+    margin: 0 auto;
+    padding: 2em;
+    width: calc(100% - 4em);
+    background-color: white;
+}
+
+.images-section .images{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.images-section .images img{
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.images #image-caption{
+    padding: 0 1em;
+}
+
+#tribute-info{
+    width: 100%;
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+#tribute-info h1{
+    text-align: center;
+}
+
+#tribute-info ul li{
+    margin: 1em 0;
+}
+
+#tribute-info .year{
+    font-weight: bold;
+}
+
+#footer
+{
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+}
+
+#footer p{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+}
