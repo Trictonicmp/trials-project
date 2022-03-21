@@ -2,14 +2,14 @@
 
 # Tribute page
 
-> A tribute page made for Microverse Admissions Trials. Used HTML, CSS, Linters, Professional Business-English written README.
+> A tribute page made for Microverse Admissions Trials. Used HTML, CSS, Professional Business-English written README.
 
 
 ## Built With
 
 - HTML, CSS
 - Frameworks: N/A
-- Technologies: LINTERS, GIT, GITHUB
+- Technologies: GIT, GITHUB
 
 
 ## Getting Started
